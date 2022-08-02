@@ -4,11 +4,8 @@
     </a>
 </p>
 <h1 align="center">
-    <b>Tokyo Free Black Typescript React Admin Dashboard</b>
+    <b>Black Typescript React Admin Dashboard</b>
     <br>
-    <a href="https://twitter.com/intent/tweet?url=https://bloomui.com&text=I like this React admin dashboard">
-        <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
-    </a>
 </h1>
 <div align="center">
 
@@ -33,18 +30,13 @@ To discover all the features that this free React admin template has to offer, w
 <p>There is also a free Javascript version available, if that is what you prefer working with.</p>
 
 ---
-<h3>Updrade to PRO</h3>
-
-<p>The premium version of this template comes with a lot more components, features and options making it a very powerful friend in your development endeavors. You can download a copy of it from <a href="https://bloomui.com">bloomui.com</a></p>
-
----
 
 <h2>
     Quick Start
 </h2>
 <ol>
     <li>Make sure you have the latest stable versions for Node.js and NPM installed</li>
-    <li>Clone repository: <code>git clone https://github.com/bloomui/tokyo-free-black-react-admin-dashboard.git</code></li>
+    <li>Clone repository: <code>git clone https://github.com/bigben3918/admin-dashboard-frontend.git</code></li>
     <li>Install dependencies: Run <code>npm install</code> inside the project folder</li>
     <li>Start dev server: After the install finishes, run <code>npm run start</code>. A browser window will open on http://localhost:3000 where you''ll see the live preview</li>
 </ol>
