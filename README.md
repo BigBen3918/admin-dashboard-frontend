@@ -56,6 +56,6 @@ To discover all the features that this free React admin template has to offer, w
 </h2>
 <p>
     You can open a support ticket by sending an email here: <a href="mailto:support@bloomui.freshdesk.com" title="Open Support Ticket">
-        support@bloomui.freshdesk.com
+        benjamin199551@gmail.com
     </a>
 </p>
